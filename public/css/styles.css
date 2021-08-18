@@ -1,0 +1,11 @@
+table a {
+    color: black;
+}
+
+.card {
+    text-align: justify;
+} 
+
+.row {
+    border-radius: 5px;
+}
